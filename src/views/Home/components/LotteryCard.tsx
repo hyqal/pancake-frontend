@@ -95,11 +95,11 @@ const LotteryCard = () => {
     <StyledLotteryCard>
       <CardBody>
         <Heading scale="xl" mb="24px">
-          {t('Your Lottery Winnings')}
+          {t('ICHIRO Staking')}
         </Heading>
         <CardImage src="/images/ticket.svg" alt="cake logo" width={64} height={64} />
         <Block>
-          <Label>{t('CAKE to Collect')}:</Label>
+          <Label>{t('Ichiro to Collect')}:</Label>
           <CakeWinnings claimAmount={claimAmount} />
         </Block>
         <Block>
