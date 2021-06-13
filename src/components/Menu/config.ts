@@ -37,10 +37,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     href: '/collectibles',
   },
   {
-    label: t('Info'),
-    icon: 'InfoIcon',
-  },
-  {
     label: t('IFO'),
     icon: 'IfoIcon',
     href: '/ifo',
