@@ -1,7 +1,7 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
+  "short_name": "IchiroSwap",
+  "name": "IchiroSwap",
+  "description": "Farm ICHIRO with Pancake LP Tokens",
   "icons": [
     {
       "src": "favicon.ico",
